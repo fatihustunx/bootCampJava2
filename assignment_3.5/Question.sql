@@ -21,3 +21,4 @@ inner join orderdetails od on od.productid=p.productid
 inner join orders o on o.orderid=od.orderid
 group by p.productname
 
+
