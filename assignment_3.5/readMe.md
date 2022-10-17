@@ -1,5 +1,5 @@
 ## Database design for
-  ## corporate architectures
+  ##    corporate architectures
 
 [dbOfBank](https://drawsql.app/teams/fatih-ustun/diagrams/dbofbank/embed)
 
