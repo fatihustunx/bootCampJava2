@@ -20,3 +20,4 @@ select p.productname, sum(od.quantity*p.price) as 'Total Gain' from products p
 inner join orderdetails od on od.productid=p.productid
 inner join orders o on o.orderid=od.orderid
 group by p.productname
+
